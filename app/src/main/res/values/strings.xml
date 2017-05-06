@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">IGC Uploader</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_upload">Upload</string>
+    <string name="upload_box_xcontest">XContest</string>
+    <string name="upload_box_leo">Leonardo</string>
+    <string name="text_flightdetails">Flight Details:</string>
+    <string name="glider_name">Glider Name</string>
+    <string-array name="glider_certs">
+        <item>"32: EN A"</item>
+        <item>"64: EN B"</item>
+        <item>"128: EN C"</item>
+        <item>"256: EN D"</item>
+        <item>"1: LTF 1"</item>
+        <item>"2: LTF 1/2"</item>
+        <item>"4: LFT 2"</item>
+        <item>"8: LFT 2/3"</item>
+        <item>"16: LFT 3"</item>
+        <item>"1024: Proto"</item>
+    </string-array>
+    <string-array name="glider_brands">
+        <item>"1: Advance"</item>
+        <item>"2: Airwave"</item>
+        <item>"3: Gin"</item>
+        <item>"4: Icaro Paragliders"</item>
+        <item>"5: Nova"</item>
+        <item>"6: Skywalk"</item>
+        <item>"7: Swing"</item>
+        <item>"8: UP"</item>
+        <item>"9: SOL"</item>
+        <item>"10: Gradient"</item>
+        <item>"11: FreeX"</item>
+        <item>"12: ProDesign"</item>
+        <item>"13: MacPara"</item>
+        <item>"14: UTurn"</item>
+        <item>"15: Apco"</item>
+        <item>"16: Wings Of Change"</item>  // WOC
+        <item>"17: Windtech"</item>
+        <item>"18: Sky Paragliders"</item>
+        <item>"19: Ozone"</item>
+        <item>"20: Aerodyne"</item>
+        <item>"21: Aircross"</item>
+        <item>"22: Paratech"</item>
+        <item>"23: Dudek"</item>
+        <item>"24: Firebird"</item>
+        <item>"25: FlightDesign"</item>
+        <item>"26: Niviuk"</item>
+        <item>"27: Independence"</item>
+        <item>"28: Axis"</item>
+        <item>"29: Aeros"</item>
+        <item>"30: Edel"</item>
+        <item>"31: ITV"</item>
+        <item>"32: Nervunes"</item>
+        <item>"33: Pegas"</item>
+        <item>"34: Perche"</item>
+        <item>"35: Trekking"</item>
+        <item>"36: XiX"</item>
+        <item>"37: Paradelta"</item>
+        <item>"38: WillsWing"</item>
+        <item>"39: Moyes"</item>
+        <item>"40: A.I.R."</item>
+        <item>"41: Airborne"</item>
+        <item>"42: Bautek"</item>
+        <item>"43: Seedwings"</item>
+        <item>"44: Finsterwalder"</item>
+        <item>"45: Team5"</item>
+        <item>"46: Thalhofer"</item>
+        <item>"47: Airea"</item>
+        <item>"48: La Mouette"</item>
+        <item>"49: Impuls"</item>
+        <item>"50: Team Impact"</item>
+        <item>"51: Guggenmos"</item>
+        <item>"52: Flying Planet"</item>
+        <item>"53: Enterprise Wings"</item>
+        <item>"54: CaliptAir"</item>
+        <item>"55: Tecma"</item>
+        <item>"56: Icaro 2000"</item>
+        <item>"57: Skyline"</item>
+        <item>"58: Skyward"</item>
+        <item>"59: Aeriane"</item>
+        <item>"60: Escape"</item>
+        <item>"61: Archaeopteryx"</item>
+        <item>"62: AirDesign"</item>
+        <item>"63: Synairgie"</item>
+        <item>"64: Vega"</item>
+        <item>"65: Triple Seven"</item>
+        <item>"66: Skyman"</item>
+        <item>"67: BGD"</item>
+        <item>"68: Ikarus"</item>
+        <item>"80: Little Cloud"</item>
+        <item>"81: JoJo Wings"</item>
+        <item>"82: Sky Country"</item>
+        <item>"83: Ynovar"</item>
+        <item>"90: Archaeopteryx"</item>
+        <item>"91: Air Design"</item>
+        <item>"92: Paramania"</item>
+        <item>"93: Triple Seven"</item>
+    </string-array>
+</resources>
